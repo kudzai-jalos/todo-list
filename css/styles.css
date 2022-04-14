@@ -3,7 +3,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background-image: url("/images/sebastian-svenson-LpbyDENbQQg-unsplash.jpg");
+  background-image: url("../images/sebastian-svenson-LpbyDENbQQg-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
